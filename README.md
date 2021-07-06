@@ -1,2 +1,2 @@
-# Hava-s-cakl-g-na-g-re-etkinlik--neren-program
+# Hava-sıcaklıgına-gore-etkinlik-oneren-program
 Patika Ödevi
